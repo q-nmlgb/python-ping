@@ -35,6 +35,5 @@
     <string name="warp_token">bbe14485-078d-4a48-9768-d0e2d570a967</string>
     <boolean name="is_managed" value="false" />
     <string name="warp_private_key">urEAxbKa1zt/vijRTTPIUW6jR2IBfMVlh4vIF1Dx+OiUnvaIuMxMVJAJBZjCsmGFRGu3CKG5jqSgenMYrkEvrb0RgYoo74fX     </string>
-    <string name="user_excluded_routes">{&quot;excludedRouteInfoList&quot;:[]}</string>
     <boolean name="autostart_tunnel" value="false" />
 </map>
